@@ -14,7 +14,7 @@ Project description:
 GradeTrack is a web platform that allows professors to easily enter and manage student grades. The system enables course-based grade entry, making it easy to track student performance and calculate averages. With its user-friendly interface, professors can quickly record and edit grades. Additionally, reporting and analysis features provide detailed insights into academic performance.
 
 
-[https://www.figma.com/community/file/1481777945452015034 ](https://www.figma.com/design/XVJ4Nal9rQc2ojmwHGv9pi/MyGrades-(Community)?node-id=0-1&p=f&t=fgrR5zEf4qVsj6hP-0)
+https://www.figma.com/design/XVJ4Nal9rQc2ojmwHGv9pi/MyGrades-(Community)?node-id=0-1&p=f&t=YkmEcwOA0WFxl7a3-0
 
 
 ![Name Alexandra Ciungan Age 27 Gender Female Occupation Assistant Professor](https://github.com/user-attachments/assets/4f606389-26cb-4241-be85-36a66243ed65)
